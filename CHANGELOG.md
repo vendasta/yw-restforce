@@ -1,3 +1,7 @@
+## 1.4.2 (Mar 11, 2022)
+
+* Loosened some dependency version restrictions
+
 ## 1.4.1 (Jun 18, 2013)
 
 *   Fixed a bug with HTTP 413 responses #75 @patronmanager
