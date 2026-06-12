@@ -1,0 +1,6 @@
+services:
+  - name: yw-restforce
+    owner: honey-badger
+    language: ruby
+    nonServiceType: library
+    description: "A ruby client for the Salesforce REST api."
